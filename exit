@@ -1,0 +1,113 @@
+commit 67c96da751b7c584d505883e0b46ea3e2669516b
+Author: Jeffrey Tong <trigun0x2@gmail.com>
+Date:   Sun Mar 31 22:51:51 2013 -0400
+
+    9.2.3
+
+commit 12b7425ca78254931be02df988a2d96037717f8c
+Author: Jeffrey Tong <trigun0x2@gmail.com>
+Date:   Sun Mar 31 18:57:29 2013 -0400
+
+    what
+
+commit 1cfc03f4818287e92871abaa6001814802872f2a
+Author: Jeffrey Tong <trigun0x2@gmail.com>
+Date:   Sat Mar 30 17:49:19 2013 -0400
+
+    finished signin
+
+commit 8c6c648b5f20151a8215cb10c7600ee8d401c0e5
+Author: Jeffrey Tong <trigun0x2@gmail.com>
+Date:   Fri Mar 29 19:03:24 2013 -0400
+
+    Removed SSL in production
+
+commit 501ee52842915f0daaaeaaa7b76b11d56f5e93ad
+Author: Jeffrey Tong <trigun0x2@gmail.com>
+Date:   Fri Mar 29 19:02:13 2013 -0400
+
+    Add SSL in production
+
+commit 8507a4d661556f9a116c7bf757d9b89ee0897bfd
+Author: Jeffrey Tong <trigun0x2@gmail.com>
+Date:   Fri Mar 29 18:35:33 2013 -0400
+
+    Finish user signup
+
+commit 844638a5a7be3cd3ecc255423397b1439501e465
+Author: Jeffrey Tong <trigun0x2@gmail.com>
+Date:   Fri Mar 29 00:37:42 2013 -0400
+
+    Make a basic User model (including secure passwords)
+
+commit 2af7ee00d80245a2bee2c72c4b558d4bab88977a
+Author: Jeffrey Tong <trigun0x2@gmail.com>
+Date:   Thu Mar 28 00:15:47 2013 -0400
+
+    6.3
+
+commit b7671d3f301746517887ee854ca5106cdc3892f8
+Author: Jeffrey Tong <trigun0x2@gmail.com>
+Date:   Tue Mar 26 23:49:45 2013 -0400
+
+    6.2.2
+
+commit 7ca403ea7249a9d81953dee1b277d82f347074ec
+Author: Jeffrey Tong <trigun0x2@gmail.com>
+Date:   Tue Mar 26 21:04:11 2013 -0400
+
+    layouts and such
+
+commit 76583d59b983ac2b589df50478e110518bd2a450
+Author: Jeffrey Tong <trigun0x2@gmail.com>
+Date:   Tue Mar 26 18:25:16 2013 -0400
+
+    layouts and routes
+
+commit e96f999912f539e0fafd135b8c8908a60aa2120b
+Author: Jeffrey Tong <trigun0x2@gmail.com>
+Date:   Mon Mar 25 21:49:24 2013 -0400
+
+    Half Way Through Chapter 5.4
+
+commit f70b18df8330b04cfa9c5282312b44e85b670aac
+Author: Jeffrey Tong <trigun0x2@gmail.com>
+Date:   Mon Mar 25 00:32:16 2013 -0400
+
+    Add a full_title helper
+
+commit b0b7bdba3103db0942297927116c355885111cf1
+Author: Jeffrey Tong <trigun0x2@gmail.com>
+Date:   Sun Mar 24 21:47:06 2013 -0400
+
+    dynamic
+
+commit f48b6babc9d6b6b40e983a1958977fa4b51c7535
+Author: Jeffrey Tong <trigun0x2@gmail.com>
+Date:   Sun Mar 24 20:16:03 2013 -0400
+
+    Finish static pages
+
+commit decdbb35d366fd9fba8a9077f2ef78c4c239e3a7
+Author: Jeffrey Tong <trigun0x2@gmail.com>
+Date:   Sun Mar 24 12:50:04 2013 -0400
+
+    slightly dynamic now
+
+commit bc44afe1eab0050e02b2c0b99f2ed4c48e1c5319
+Author: Jeffrey Tong <trigun0x2@gmail.com>
+Date:   Sat Mar 23 23:15:46 2013 -0400
+
+    Added static pages
+
+commit 39c877d622589a62efb2cd39c77d93fcc4c8bed8
+Author: Jeffrey Tong <trigun0x2@gmail.com>
+Date:   Sat Mar 23 12:48:41 2013 -0400
+
+    Update Readme
+
+commit f9fd77aae351e5b5b392ef7c2a03c07ceefb2f32
+Author: Jeffrey Tong <trigun0x2@gmail.com>
+Date:   Sat Mar 23 12:47:27 2013 -0400
+
+    Initial Commit
